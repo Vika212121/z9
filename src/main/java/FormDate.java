@@ -1,6 +1,6 @@
 public class FormDate {
     // добавьте три необходимых поля
-    public int day;
-    public int month;
-    public int year;
+    public short day;
+    public short month;
+    public short year;
 }
